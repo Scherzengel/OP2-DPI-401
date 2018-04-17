@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=OP2DPI
+name=OP2 DPI 401
 version=v1
 versionCode=1
-author=topjohnwu
+author=Scherzengel
 description=A short description
 minMagisk=1500
