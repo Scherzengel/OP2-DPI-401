@@ -6,5 +6,7 @@ Features:
  - increase Volume step number
  - remove Volume warning
 ## Changelog
+
 V2 - Rename of module + added Volume stuff
+
 V1 - Initial Release
