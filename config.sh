@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     OP2 DPI 401               "
+  ui_print "         OP2 Tweaks.           "
   ui_print "*******************************"
 }
 
