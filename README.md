@@ -1,4 +1,4 @@
-# **OP2 Tweaks*
+# **OP2 Tweaks**
 ## Description
 Collection of build.prop tweaks for the OP2.
 Features:
