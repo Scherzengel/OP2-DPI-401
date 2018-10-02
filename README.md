@@ -7,6 +7,8 @@ Features:
  - remove Volume warning
 ## Changelog
 
+V2.2 - Configure Airplane Mode
+
 V2.1 - Small adjustments
 
 V2 - Rename of module + added Volume stuff
